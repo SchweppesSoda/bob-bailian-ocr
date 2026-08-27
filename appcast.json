@@ -1,0 +1,13 @@
+{
+  "identifier": "com.schweppessoda.bailian.ocr",
+  "versions": [
+    {
+      "version": "2.1.0",
+      "desc": "首个独立 Bob 稳定发布：支持百炼按量付费、Coding Plan、Token Plan、PNG/JPEG/WebP/GIF OCR 和可选思考强度。",
+      "sha256": "b8243d36cbd01f15c5b58db797b8ec93073bdbc8b8adc8016570ba3ee38f73fe",
+      "url": "https://github.com/SchweppesSoda/bob-bailian-ocr/releases/download/v2.1.0/bob-bailian-ocr-2.1.0.bobplugin",
+      "minBobVersion": "1.8.0",
+      "timestamp": 1787818961311
+    }
+  ]
+}
