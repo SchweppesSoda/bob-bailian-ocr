@@ -2,6 +2,14 @@
   "identifier": "com.schweppessoda.bailian.ocr",
   "versions": [
     {
+      "version": "2.3.0",
+      "desc": "单包提供按量付费、Coding Plan 与 Token Plan，默认按量付费；保留现有 OCR、取消、分辨率和错误脱敏行为。",
+      "sha256": "d938caddc33690157da2c31d6fa0a55cf4ef550337f2b63b255a35c3aa9f0a70",
+      "url": "https://github.com/SchweppesSoda/bob-bailian-ocr/releases/download/v2.3.0/bob-bailian-ocr-2.3.0.bobplugin",
+      "minBobVersion": "1.8.0",
+      "timestamp": 1787927440392
+    },
+    {
       "version": "2.2.1",
       "desc": "OCR 性能与合规更新：公开包仅使用按量付费；上传前限制超大图片，新增 Auto/Fast/High 分辨率，并在取消后阻止晚到完成回调。",
       "sha256": "97519f07a796b16fdb49d1d15a959678b80c3cc017985ca4d1517686d1568994",
