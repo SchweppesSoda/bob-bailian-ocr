@@ -2,6 +2,14 @@
   "identifier": "com.schweppessoda.bailian.ocr",
   "versions": [
     {
+      "version": "2.3.1",
+      "desc": "修复流式服务错误误报成功，统一 Core 解析与开发回退；与共享源码补丁版本同步。",
+      "sha256": "df1193bb17c73bfc4f092d4ae924ad6a053403031ac1286ad92cbaa24eb7828a",
+      "url": "https://github.com/SchweppesSoda/bob-bailian-ocr/releases/download/v2.3.1/bob-bailian-ocr-2.3.1.bobplugin",
+      "minBobVersion": "1.8.0",
+      "timestamp": 1789310052385
+    },
+    {
       "version": "2.3.0",
       "desc": "单包提供按量付费、Coding Plan 与 Token Plan，默认按量付费；保留现有 OCR、取消、分辨率和错误脱敏行为。",
       "sha256": "d938caddc33690157da2c31d6fa0a55cf4ef550337f2b63b255a35c3aa9f0a70",
